@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.javamaster.TicTacToeApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-06-06T11:39:21" hostname="VICTUS" time="0.849">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.javamaster.TicTacToeApplicationTests" time="0.849"/>
+  <system-out><![CDATA[13:39:19.348 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.javamaster.TicTacToeApplicationTests]: TicTacToeApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+13:39:19.479 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.javamaster.TicTacToeApplication for test class com.javamaster.TicTacToeApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v3.2.3)
+
+2024-06-06T13:39:19.903+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] c.javamaster.TicTacToeApplicationTests   : Starting TicTacToeApplicationTests using Java 20.0.1 with PID 9480 (started by alvar in C:\Users\alvar\Desktop\tic-tac-toe - Copy)
+2024-06-06T13:39:19.904+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] c.javamaster.TicTacToeApplicationTests   : No active profile set, falling back to 1 default profile: "default"
+2024-06-06T13:39:20.915+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page: class path resource [static/index.html]
+2024-06-06T13:39:21.083+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : Starting...
+2024-06-06T13:39:21.086+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : BrokerAvailabilityEvent[available=true, SimpleBrokerMessageHandler [org.springframework.messaging.simp.broker.DefaultSubscriptionRegistry@5f0a2638]]
+2024-06-06T13:39:21.086+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] o.s.m.s.b.SimpleBrokerMessageHandler     : Started.
+2024-06-06T13:39:21.105+02:00  INFO 9480 --- [tic-tac-toe] [    Test worker] c.javamaster.TicTacToeApplicationTests   : Started TicTacToeApplicationTests in 1.452 seconds (process running for 2.748)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
